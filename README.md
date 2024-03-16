@@ -3,7 +3,7 @@ Project Title: Hangman-Game
 Team Members:
 1. Manager - Mishthy Sharma
 2. Developer - Palak Sharma
-3. Testor - Liza Julaha
+3. Tester - Liza Julaha
 
 Project Details: Version1 has been released by the developer at 12:00am IST(14-03-24).
 
