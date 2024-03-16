@@ -3,7 +3,7 @@ Project Title: Hangman-Game
 Team Members:
 1. Manager - Mishthy Sharma
 2. Developer - Palak Sharma
-3. Tester - Liza Julaha
+3. Tester - Liza 
 
 Project Details: Version1 has been released by the developer at 12:00am IST(14-03-24).
 
@@ -20,3 +20,6 @@ In this iteration of the game, upon execution, it currently displays a blank win
 
 Version 1.2:
 In Version 1.2 of the game, while errors are absent, there is a need for several enhancements to augment user engagement. Primarily, the current iteration lacks sufficient user interactivity. To address this, incorporating additional features to enhance user interaction is imperative. One proposed enhancement involves integrating a diagrammatic representation following each attempt, thereby enriching the user experience. Additionally, the current implementation of the word selection function within the code restricts the available options, resulting in repetitive gameplay experiences for users engaging with the game multiple times. To mitigate this issue, an expansion of the words are required in def choice function to ensure users to get a different word for guessing with each playthrough, thereby enhancing overall gameplay variability and user satisfaction.
+
+Version 1.3:
+In the forthcoming iteration, The interface shall be modified such that upon making a guess and appending the corresponding digit to the output box, the preceding character shall be removed prior to appending the subsequent one. This adjustment aims to enhance the clarity and tidiness of the displayed information. Although, This version is good but we can make it more appealing by introducing a new color scheme or introducing visually appealing colors to the interface. This enhancement seeks to create a more immersive and enjoyable user experience. Lastly, an additional feature to consider is the inclusion of a scoring mechanism. Upon the conclusion of each game session, the final score shall be displayed within the message box, providing users with feedback on their performance. This addition aims to further enrich the user experience and encourage continued engagement with the application. These alterations can significantly enhance the interactivity, appeal, and overall quality of the game.
