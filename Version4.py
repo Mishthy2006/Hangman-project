@@ -3,7 +3,7 @@ from tkinter import messagebox
 import random
 
 class HangmanGame:
-    def _init_(self, master):
+    def __init__(self, master):
         self.master = master
         self.master.title("Hangman Game")
         self.master.geometry("450x650")
@@ -119,5 +119,5 @@ def main():
     hangman_game = HangmanGame(root)
     root.mainloop()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
